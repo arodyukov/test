@@ -2,7 +2,7 @@ Feature: NewFeature
 
   Это тестовый файл сценариев
 
-  @BEH-1 @Regress @COMPLETED
+  @BEH-1 @Regress @WIP
   Scenario: Scenario1
     Исли пользователь заводит заявку на кредит
     И скоринг одобряет заявку
