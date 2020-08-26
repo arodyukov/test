@@ -1,6 +1,6 @@
 Feature: Feature1
 
-  @ORPHAN @OPEN
+  @ORPHAN
   Scenario: Scenario1
     Given пользователь заводит заявку на кредит
       | dfs  | sdasd   |
