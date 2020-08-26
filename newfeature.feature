@@ -9,7 +9,7 @@ Feature: NewFeature
     То деньги перечисляются на счет
     
 
-  @BEH-1 @OPEN @Regress
+  @BEH-1 @OPEN
   Scenario: Сценарий 2
     Given пользователь заводит заявку на кредит
     And скоринг одобряет заявку
