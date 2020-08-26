@@ -1,8 +1,9 @@
 Feature: Feature1
 
-  @ORPHAN
+  @ORPHAN @OPEN
   Scenario: Scenario1
     Given пользователь заводит заявку на кредит
-     |dfs  |sdasd     |
-     | sdfs|   llkasdf|
-    And скоринг одобряет заявку 
+      | dfs  | sdasd   |
+      | sdfs | llkasdf |
+    
+    And скоринг одобряет заявку
